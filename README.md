@@ -1,5 +1,5 @@
-# 🚀 Belal Safy  
-### Full Stack Developer • AI Engineer 
+# 👋 Hi, I'm Belal Safy
+### 🚀 Full Stack Developer • AI Engineer 
 
 <p align="center">
   <a href="mailto:belal.safy100@gmail.com">
